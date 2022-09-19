@@ -1,3 +1,3 @@
 # Elite101-PreWork
 
-This is Stepan's text that he added to the readme file.
+This is Stepan's text that he added to the ReadME file.
